@@ -828,3 +828,56 @@ nav.affix .desing-img {
 #Projects .owl-nav {
     display: none;
 }
+.deney {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+}
+.deney .bir {
+    width: calc(50% - 40px);
+    margin-top: 20px;
+}
+.deney .bir .baslig2 {
+    font-weight: 700;
+    font-size: 30px;
+    color: #fff;
+}
+.deney .sol .bilgi a {
+    margin: 15px;
+    display: inline-block;
+    border-radius: 50%;
+    text-decoration: none;
+    color: #fff;
+}
+.deney .sol .bilgi a {
+    margin: 15px;
+    display: inline-block;
+    border-radius: 50%;
+    text-decoration: none;
+    color: #fff;
+}
+.deney .bir .baslig2 {
+    font-weight: 700;
+    font-size: 30px;
+    color: #fff;
+}
+.deney .sag .bilgi samp {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 400;
+    color: #fff;
+}
+.sag .bilgi {display: flex;
+    flex-direction: column;
+    align-items: flex-start;}
+
+    .sol {display: flex;
+        flex-direction: column;
+        align-items: flex-end;}
+       .sag .bilgi samp a {
+            font-family: 'Ubuntu', sans-serif;
+            font-weight: 400;
+            color: #fff;
+            margin: 5px;
+            text-decoration: none;
+        }
