@@ -28,5 +28,21 @@ nav.affix .desing-img {
 }
 .nav-mobille{
     display: block;
+    width: 100%!important;
+    overflow: hidden;
+}
+.deney .bir {
+    width: 100%;
+    margin-top: 20px;
+}
+.sol {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.sag .bilgi {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 }
